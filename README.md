@@ -60,8 +60,8 @@ npm run build
 ## 👩‍💻 Author
 
 * **Pooja Patil**
-* Portfolio: poojaapatil.netlify.app
-
+* Portfolio:[ https://poojaapatil.netlify.app
+](https://poojaapatil.netlify.app/)
 ---
 
 
