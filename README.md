@@ -61,6 +61,8 @@ npm run build
 
 
 ```
+
+<img width="1696" height="875" alt="image" src="https://github.com/user-attachments/assets/207f0034-f0ab-4d45-a452-2f14708c1eb9" />
 [https://react-student-form.vercel.app](https://student-form-react.vercel.app/)
 ```
 
@@ -68,16 +70,10 @@ npm run build
 
 ## 👩‍💻 Author
 
-* **Your Name**
-* GitHub: [https://github.com/Pooja0410-ui/react-student-form]
+* **Pooja Patil**
 * Portfolio: poojaapatil.netlify.app
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, kindly give a **⭐ star** to the repo!
-It motivates me to create more such projects 😊
 
 ---
 
@@ -85,5 +81,4 @@ It motivates me to create more such projects 😊
 
 ---
 
-<img width="1696" height="875" alt="image" src="https://github.com/user-attachments/assets/207f0034-f0ab-4d45-a452-2f14708c1eb9" />
 
